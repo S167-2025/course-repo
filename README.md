@@ -8,7 +8,7 @@ Yale Summer Session 2025
 Session A, Tue. & Thur., May 26–Jul 27
 
 Instructed by Mianwei Wang (mianwei.wang@yale.edu / mianwei.wang@gmail.com)
-TA by Hasti Kasraei Roudborde (hasti.kasraeiroudborde@yale.edu)
+TA by Hasti Kasraei (hasti.kasraeiroudborde@yale.edu)
 
 ---
 ### Welcome to the class!
