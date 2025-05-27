@@ -3,7 +3,7 @@
 - [Laurel's HTML basics](https://www.youtube.com/watch?v=CkzbI1Tv_rQ)
 - Comment out: Command (Mac OS) or Ctrl (Windows) + /
 
-1. HTML tags for text
+### HTML tags for text
 
 ```
 <p>, <span>, <br>, <hr>
@@ -12,19 +12,19 @@
 <ul>, <ol>, <li>
 ```
 
-2. HTML `<a>` tag
+### HTML `<a>` tag
 ```
 <a href="maps.google.com"> Get direction from Google Maps!</a>
 <a href="maps.google.com" target="_blank"> This will pop up from a new tab </a>
 <a href="mailto:example@gmail.com"> Send me a walk! </a>
 ```
 
-3. HTML tags for media
+### HTML tags for media
 ```
 <img src="url" alt="alternative text">
 ```
 
-4. HTML [Video](https://www.w3schools.com/html/html5_video.asp) and [Audio](https://www.w3schools.com/html/html5_audio.asp)
+### HTML [Video](https://www.w3schools.com/html/html5_video.asp) and [Audio](https://www.w3schools.com/html/html5_audio.asp)
 
 ```
 <video width="320" height="240" autoplay muted>
@@ -46,7 +46,7 @@
 ```
 - What are some self-closing tags in HTML?
 
-5. HTML Boilerplate
+### HTML Boilerplate
 ```
 <html>
     <head>
@@ -61,7 +61,7 @@
 ```
 - HTML5 [boilerplate](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
 
-6. HTML [class](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class) and [id](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id)
+### HTML [`class`](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class) and [`id`](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id)
 
 ```
 <div class="section" id="banner"></div>

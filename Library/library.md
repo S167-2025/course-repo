@@ -1,6 +1,6 @@
 # Library
 
-Reading Responses on Are.Na
+Reading Responses on [Are.Na](https://www.are.na/art-s167-s2025/reading-responses-g2pohw2w5jk)
 
 ### Week 1
 [“Introduction," *Gramophone, Film, Typewriter*, Friedrich A. Kittler](https://cdn.glitch.me/0fbe2e78-884f-49f0-9a22-eeb1740671e1%2FIntroduction_Kittler_Friedrich_Gramophone_Film_Typewriter.pdf)
