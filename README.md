@@ -25,9 +25,31 @@ TA by Hasti Kasraei Roudborde (hasti.kasraeiroudborde@yale.edu)
 ---
 
 ### About
-Entering from web-making, this class explores bundling, personal histories, and spatial intervention and progresses through workshops, discussions, and exercises in-and-out of the classroom. This intensive studio course takes place over a 5-week period in summer 2025, in person in New Haven, CT.
+This course introduces a critical lens on media history, digital developments, and contemporary tools around interactive design.
+Entering from web-making, our topics explore bundling, agency and personal histories across the screen to real life space. Combining readings, writing prompts, workshops and discussions, we will approach websites as an individual practice and then explore how to collaborate through web. This intensive studio course takes place over a 5-week period in summer 2025, in person in New Haven, CT.
 
 Artificial Intelligence tools and applications in web development will be a centered topic of our course, yet how to work with AI in this discourse will be explored, we will practice AI use in alignment of  code writing framework:
 > From academic integrity at MIT: “Writing Code” (https://integrity.mit.edu/ handbook/writing-code):
 
 > “writing code is similar to academic writing in that **when you use or adapt code developed by someone else as part of your project, you must cite your source.** however, instead of quoting or paraphrasing a source, you include an inline comment in the code. these comments not only ensure you are giving proper credit, but help with code understanding and debugging. ... you should not simply re-use code as the solution to an assignment. like academic writing, your code can incorporate the ideas of others but should reflect your original approach to the problem.”
+
+### Land Acknowledgement
+Yale University acknowledges that indigenous peoples and nations, including Mohegan,<sup>1</sup> Mashantucket Pequot,<sup>2</sup> Eastern Pequot,<sup>3</sup> Schaghticoke,<sup>4</sup> Golden Hill Paugussett,<sup>5</sup> Niantic,<sup>6</sup> and the Quinnipiac<sup>7</sup> and other Algonquian<sup>8</sup> speaking peoples, have stewarded through generations the lands and waterways of what is now the state of Connecticut.  We honor and respect the enduring relationship that exists between these peoples and nations and this land.
+
+Pronunciation guide:
+
+1 mow.hee.gn
+
+2 mash.an.tuck.et pee.kwot
+
+3 east.ern. pee.kwot
+
+4 skat.ih.kohk
+
+5 gold.en. hill po.gaw.sett
+
+6 ni.han.tic
+
+7 kwihn.ih.pee.ac
+
+8 al-gon-kwihn

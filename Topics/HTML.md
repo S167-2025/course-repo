@@ -61,10 +61,8 @@
 ```
 - HTML5 [boilerplate](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
 
-6. Display property
+6. HTML [class](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class) and [id](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id)
 
 ```
-inline
-block
-inline-block
+<div class="section" id="banner"></div>
 ```

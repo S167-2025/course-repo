@@ -1,5 +1,18 @@
 # CSS Basics
 
+### Cascading Style Sheets
+
+![Cascading waterfall](/_assets/img/cascading-water.gif)
+
+![Cascading style diagram](/_assets/img/cascading-style.png)
+
+
+### How CSS works with HTML:
+
+- External CSS, 
+- Internal or embedded CSS,
+- Inline CSS
+
 ### Basic syntax:
 ```
 p {
@@ -12,7 +25,7 @@ p {
 
 ### CSS display:
 ```
-inline, block, inline-block
+inline, block, inline-block, grid, flex
 ```
 
 ### CSS typography:
@@ -33,4 +46,10 @@ padding, margin, border, box-sizing
 display, position
 height, width
 top, bottom, right, left, float*
+```
+
+### CSS units
+
+```
+px, em, rem, vh, vw, %
 ```
