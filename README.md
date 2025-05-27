@@ -7,7 +7,7 @@ permalink: https://github.com/S167-2025/course-repo
 Yale Summer Session 2025
 Session A, Tue. & Thur., May 26–Jul 27
 
-Instructed by Mianwei Wang (mianwei.wang@yale.edu)
+Instructed by Mianwei Wang (mianwei.wang@yale.edu / mianwei.wang@gmail.com)
 TA by Hasti Kasraei Roudborde (hasti.kasraeiroudborde@yale.edu)
 
 ---
@@ -26,6 +26,7 @@ TA by Hasti Kasraei Roudborde (hasti.kasraeiroudborde@yale.edu)
 
 ### About
 This course introduces a critical lens on media history, digital developments, and contemporary tools around interactive design.
+
 Entering from web-making, our topics explore bundling, agency and personal histories across the screen to real life space. Combining readings, writing prompts, workshops and discussions, we will approach websites as an individual practice and then explore how to collaborate through web. This intensive studio course takes place over a 5-week period in summer 2025, in person in New Haven, CT.
 
 Artificial Intelligence tools and applications in web development will be a centered topic of our course, yet how to work with AI in this discourse will be explored, we will practice AI use in alignment of  code writing framework:
