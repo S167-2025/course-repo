@@ -4,7 +4,7 @@
 
 We will take a walk together to practice such Deep Listening, and collect the following materials for a "journal":
 - 3 audio clips
-- 2 video clip
+- 2 video clips
 - at least 5 images
 
 Using writing to connect all the materials  from the walk, then we later convert this writing to a website. This journal should feature multiple locations, scenes, paths, and/or conversations with people you met during the walk.
