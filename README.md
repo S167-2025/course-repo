@@ -25,11 +25,11 @@ TA by Hasti Kasraei (hasti.kasraeiroudborde@yale.edu)
 ---
 
 ### About
-This course introduces a critical lens on media history, digital developments, and contemporary tools around interactive design.
+This course introduces interactive design through a critical lens of media history and technologies for communication.
 
-Entering from web-making, our topics explore bundling, agency and personal histories across the screen to real life space. Combining readings, writing prompts, workshops and discussions, we will approach websites as an individual practice and then explore how to collaborate through web. This intensive studio course takes place over a 5-week period in summer 2025, in person in New Haven, CT.
+Entering from web-making, our topics explore bundling, agency, and personal histories across the screen to real life space. Combining readings, writing prompts, workshops and discussions, we will approach websites as individual practices and then explore how to collaborate through web. This intensive studio course takes place over a 5-week period in summer 2025, in person in New Haven, CT.
 
-Artificial Intelligence tools and applications in web development will be a centered topic of our course, yet how to work with AI in this discourse will be explored, we will practice AI use in alignment of  code writing framework:
+Artificial Intelligence tools and applications in web development will be a centered topic of our course. While how to work with AI in this discourse will be explored, we will practice AI use in alignment of the code writing framework:
 
 From academic integrity at MIT: “Writing Code” (https://integrity.mit.edu/ handbook/writing-code):
 
@@ -55,3 +55,11 @@ Pronunciation guide:
 7. kwihn.ih.pee.ac
 
 8. al-gon-kwihn
+
+
+### About the GitHub Uses
+Participants create and manage their repositories in the shared GitHub Organization, and the course repository is managed and updated by the instructor and TA.
+- Practice on large files:
+1. Please keep the single file sizes below 50 MB, and the entire repository under 250 MB. Exceeding these sizes could cause the discontinuation of our Org and disable your individual account.
+2. Add large media files (such as videos, audios, or images) to a [gitignore file](https://www.w3schools.com/git/git_ignore.asp).
+3. Learn more about the GitHub repository size limit: https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github. 
