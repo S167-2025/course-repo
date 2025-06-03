@@ -23,11 +23,6 @@ p {
 *Selector, Property, Value.*
 
 
-### CSS display:
-```
-inline, block, inline-block, grid, flex
-```
-
 ### CSS typography:
 ```
 font-family
@@ -40,16 +35,33 @@ line-height
 letter-spacing
 ```
 
+
+### CSS display:
+[W3Schools, CSS Layout - The display Property](https://www.w3schools.com/css/css_display_visibility.asp)
+Every HTML element has a default display value, and we can override them
+
+```
+li {
+  display: inline;
+}
+```
 ### CSS layout:
+![Simplilearn, CSS Box Model](https://www.simplilearn.com/ice9/free_resources_article_thumb/CSS-Box-Model.png)
 ```
 padding, margin, border, box-sizing 
 display, position
 height, width
-top, bottom, right, left, float*
 ```
 
-### CSS units
+### CSS units:
 
 ```
 px, em, rem, vh, vw, %
 ```
+
+### CSS positioning:
+absolute, fixed, relative, static, sticky;
+top, bottom, left, right;
+
+### Exercise: CSS Drawing study on the works of Peter Halley
+Download and unzip the [demo](/_assets/peter-halley.html.zip)
