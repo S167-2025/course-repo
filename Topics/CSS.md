@@ -65,4 +65,5 @@ top, bottom, left, right;
 
 ### Exercise: CSS Drawing study on the works of Peter Halley
 Circuits, electronics, and other devices by [Peter Halley](https://www.peterhalley.com/2010s)
+
 Download and unzip the [demo](/_assets/peter-halley.html.zip)

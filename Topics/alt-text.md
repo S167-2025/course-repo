@@ -43,6 +43,7 @@ A screenshot of information from iPhone Photos, showing metadata including times
 Haiku is a type of short form poetry that originated in Japan. Traditional Japanese haiku consist of three phrases composed of 17 morae (called on in Japanese) in a 5, 7, 5 pattern*.
 
 ![Haiku By Paul Goodman](/_assets/img/haiku-eg.png)
+
 [(Source: Paul Goodman, Poetry Foundation)](https://www.poetryfoundation.org/poetrymagazine/browse?volume=102&issue=5&page=28)
 
 - Write alt text in the format of Haiku for 3 phone images
