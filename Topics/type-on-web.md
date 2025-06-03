@@ -1,5 +1,7 @@
 # Typography on the Web
 
+### Typography Basics
+[Lecture Slides](/_assets/Typography-Basics.pdf)
 
 ### CSS typography:
 ```
