@@ -45,3 +45,5 @@ try {
 // Call the function
 getArenaData();
 ```
+
+Download and work with the Are.Na API [demo file](/_assets/arena-api.zip) for project *Legend*, creating a digital publication platform.
