@@ -47,3 +47,46 @@ getArenaData();
 ```
 
 Download and work with the Are.Na API [demo file](/_assets/arena-api.zip) for project *Legend*, creating a digital publication platform.
+
+Write JavaScript in the HTML using the pair of <script></script> tags:
+```
+<script defer>
+	// embed images into text block using <code> tags, and convert the <code></code> into <img>Ï
+function convertImageUrls(container) {
+    const codeElements = container.querySelectorAll('code')
+    
+    console.log(codeElements)
+    codeElements.forEach(code => {
+        const text = code.textContent.trim()
+        
+        // Check if it looks like an image URL
+        if (text.match(/\.(jpg|jpeg|png|gif|webp)(\?.*)?$/i)) {
+            const img = document.createElement('img')
+            img.src = text
+            img.style.maxWidth = '100%'
+            
+            // Replace the entire <p><code>...</code></p> with just the image
+            const paragraph = code.closest('p')
+            if (paragraph) {
+                paragraph.replaceWith(img)
+            }
+        }
+    })
+}
+	// event delegation
+	document.addEventListener('click', (e) => {
+		if (e.target.classList.contains('exit')) {
+			const tBlock = e.target.closest('.text-block')
+			if (tBlock) {
+				tBlock.classList.remove('is-active')
+			}
+		} // If text-block clicked (but not the exit), add is-active
+		else if (e.target.closest('.text-block')) {
+			const tBlock = e.target.closest('.text-block')
+			tBlock.classList.add('is-active')
+
+			convertImageUrls(tBlock)
+		}
+	})
+</script>
+```
