@@ -2,9 +2,9 @@
 *Repository for course information and materials*
 - permalink: https://github.com/S167-2025/course-repo
 
-[*Are.Na Group*](https://www.are.na/art-s167-s2025/channels)
+[Are.Na Group](https://www.are.na/art-s167-s2025/channels)
 
-[Subscribe to our Calendar Publication](https://calendar.google.com/calendar/u/0?cid=MTJmOThiYmI1MzQ3MzcwZmY5NjQ0YmM4YWY5YjMzYzc4ZjhiZTU3ZjQzOWMyYmI2YjYzYzQ5NWEyNTU2N2IxYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+[Subscribe to our Google Calendar Publication](https://calendar.google.com/calendar/u/0?cid=MTJmOThiYmI1MzQ3MzcwZmY5NjQ0YmM4YWY5YjMzYzc4ZjhiZTU3ZjQzOWMyYmI2YjYzYzQ5NWEyNTU2N2IxYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ---
 ### ART S167 Intro to Interactive Design
