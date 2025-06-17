@@ -51,7 +51,7 @@ Download and work with the Are.Na API [demo file](/_assets/arena-api.zip) for pr
 Write JavaScript in the HTML using the pair of <script></script> tags:
 ```
 <script defer>
-	// embed images into text block using <code> tags, and convert the <code></code> into <img>Ï
+	// embed images into text block using <code> tags, and convert the <code></code> into <img>
 function convertImageUrls(container) {
     const codeElements = container.querySelectorAll('code')
     
