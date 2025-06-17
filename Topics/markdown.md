@@ -10,5 +10,3 @@
     - Got to https://markdowntohtml.com/ if you're not using VS code
 
 3. Markdown Guide: [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-
-4. Exercise: Create your first markdown file that contains at least 1 image.

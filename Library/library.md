@@ -19,7 +19,7 @@ Reading Responses on [Are.Na](https://www.are.na/art-s167-s2025/reading-response
 
 ["Battle of the Boxes" & "Battle of the Networks," *The Future of Internet and How to Stop it*, Jonathan L. Zittrain](https://cdn.glitch.global/0fbe2e78-884f-49f0-9a22-eeb1740671e1/Zittrain_TheFutureofTheInternet.pdf?v=1720798336775)
 
-[A Handmade Web, J.R.Carpenter](https://luckysoap.com/statements/handmadeweb.html) 
+[*A Handmade Web*, J.R.Carpenter](https://luckysoap.com/statements/handmadeweb.html) 
 
 ---
 ### Week 3
@@ -33,6 +33,17 @@ Reading Responses on [Are.Na](https://www.are.na/art-s167-s2025/reading-response
 
 ---
 ### Week 4
+
+["On Getting Weirder with Musical Distribution," *Software for Artist Book #002: Untethering the Web*, Jayce Clayton](https://cdn.glitch.global/0fbe2e78-884f-49f0-9a22-eeb1740671e1/Jace-Clayton.pdf?v=1750168074206)
+
+"Life Time," *Upgrade Available*, Julia Christensen (Source coming soon)
+
+["Bandits Brought Technology To This World — Shanzhai Culture (China)," *The Pirate Book*, Clément Renaud ](https://cdn.glitch.global/0fbe2e78-884f-49f0-9a22-eeb1740671e1/Bandits_Brought_Technology.pdf?v=1750168845017)
+
+["El Paquete Semanal — Cuba," *The Pirate Book*, Ernesto Oroza](https://cdn.glitch.global/0fbe2e78-884f-49f0-9a22-eeb1740671e1/El_Paquete_Semanal_Cuba.pdf?v=1750168466525)
+
+---
+### Week 5
 
 ["Round Rects Are Everywhere!," *Folklore*, Andy Hertzfeld](https://www.folklore.org/Round_Rects_Are_Everywhere.html)
 
