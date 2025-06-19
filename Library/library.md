@@ -34,11 +34,11 @@ Reading Responses on [Are.Na](https://www.are.na/art-s167-s2025/reading-response
 ---
 ### Week 4
 
-["On Getting Weirder with Musical Distribution," *Software for Artist Book #002: Untethering the Web*, Jayce Clayton](https://cdn.glitch.global/0fbe2e78-884f-49f0-9a22-eeb1740671e1/Jace-Clayton.pdf?v=1750168074206)
+(Optional) ["On Getting Weirder with Musical Distribution," *Software for Artist Book #002: Untethering the Web*, Jayce Clayton](https://cdn.glitch.global/0fbe2e78-884f-49f0-9a22-eeb1740671e1/Jace-Clayton.pdf?v=1750168074206)
 
 ["Life Time," *Upgrade Available*, Julia Christensen](https://cdn.glitch.global/0fbe2e78-884f-49f0-9a22-eeb1740671e1/Life_Time_Upgrade_Available.pdf?v=1750184751998)
 
-["Bandits Brought Technology To This World — Shanzhai Culture (China)," *The Pirate Book*, Clément Renaud ](https://cdn.glitch.global/0fbe2e78-884f-49f0-9a22-eeb1740671e1/Bandits_Brought_Technology.pdf?v=1750168845017)
+(Optional) ["Bandits Brought Technology To This World — Shanzhai Culture (China)," *The Pirate Book*, Clément Renaud ](https://cdn.glitch.global/0fbe2e78-884f-49f0-9a22-eeb1740671e1/Bandits_Brought_Technology.pdf?v=1750168845017)
 
 ["El Paquete Semanal — Cuba," *The Pirate Book*, Ernesto Oroza](https://cdn.glitch.global/0fbe2e78-884f-49f0-9a22-eeb1740671e1/El_Paquete_Semanal_Cuba.pdf?v=1750168466525)
 
